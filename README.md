@@ -58,7 +58,7 @@ The following tools are going to be used for data analysis, manipulation and mod
 
 ### Correlation matrix
 
-![Correlation Matrix](https://github.com/sandeepbalachandran/Heart-Disease-Classifier/blob/master/plots/correlation_diagram.png)
+![Correlation Matrix](https://github.com/SandeepBalachandran/Heart-Disease-Classifier/blob/master/plots/correlation_digram.png)
 
 ### ROC curve
 
