@@ -1,3 +1,4 @@
+![](./assets/heart.png)
 # Predicting heart disease using Machine Learning
 
 A machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
@@ -54,14 +55,14 @@ The following tools are going to be used for data analysis, manipulation and mod
 
 ### Feature importance
 
-![Feature Importance](https://github.com/sandeepbalachandran/Heart-Disease-Classifier/blob/master/plots/feature_importance.png)
+![Feature Importance](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/feature_importance.png)
 
 ### Correlation matrix
 
-![Correlation Matrix](https://github.com/SandeepBalachandran/Heart-Disease-Classifier/blob/master/plots/correlation_digram.png)
+![Correlation Matrix](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/correlation_digram.png)
 
 ### ROC curve
 
-![ROC Curve](https://github.com/sandeepbalachandran/Heart-Disease-Classifier/blob/master/plots/roc_curve.png)
+![ROC Curve](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/roc_curve.png)
 
 Please Add your suggestions to improve the model. Every thoughts are welcome.
