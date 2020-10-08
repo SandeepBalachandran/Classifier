@@ -1,3 +1,4 @@
+![](./assets/preview.png)
 <h1 align='center'>Classifier</h1>
 <p align="center">
   <a href="https://github.com/SandeepBalachandran/Heart-Disease-Classifier/releases/" target="_blank">
@@ -33,7 +34,7 @@
 </p>
 <hr>
 
-A collection of machine learning models for classification.
+<h2 align="center">A collection of Regression models</h2> 
 
 # Table of contents
 
@@ -48,7 +49,8 @@ A collection of machine learning models for classification.
 
 
 # Installation
-
+- Python notebook is prefered.
+- Anaconda / Mini conda / Packages used
 
 ### Install Editor
 
@@ -57,5 +59,6 @@ A collection of machine learning models for classification.
 
 
 # Contribute
+Please check the [**Contributing Guidelines**](https://github.com/SandeepBalachandran/Predictor/blob/master/CONTRIBUTING.md) before contributing.
 
 Please Add your suggestions to improve the models. Every thoughts are welcome.
