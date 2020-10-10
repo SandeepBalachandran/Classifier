@@ -55,14 +55,14 @@ The following tools are going to be used for data analysis, manipulation and mod
 
 ### Feature importance
 
-![Feature Importance](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/feature_importance.png)
+![Feature Importance](./plots/feature_importance.png)
 
 ### Correlation matrix
 
-![Correlation Matrix](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/correlation_digram.png)
+![Correlation Matrix](./plots/correlation_digram.png)
 
 ### ROC curve
 
-![ROC Curve](https://github.com/SandeepBalachandran/Classifier/blob/master/Heart%20Disease%20Classification/plots/roc_curve.png)
+![ROC Curve](.//plots/roc_curve.png)
 
 Please Add your suggestions to improve the model. Every thoughts are welcome.
