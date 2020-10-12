@@ -66,7 +66,7 @@
 - Anaconda / Mini conda / Packages used
 
 # Available Models
--
+- Heart Disease Classification
 -
 
 
