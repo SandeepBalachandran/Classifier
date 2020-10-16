@@ -31,6 +31,13 @@
     <img alt="ESLint" src="https://img.shields.io/github/forks/SandeepBalachandran/Heart-Disease-Classifier">
   </a>
   
+  <a href="" target="_blank">
+    <img alt="Codesize" src="https://img.shields.io/github/languages/code-size/SandeepBalachandran/Heart-Disease-Classifier.svg">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/SandeepBalachandran/Heart-Disease-Classifier.svg">
+  </a>
+  
 </p>
 <hr>
 
